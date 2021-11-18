@@ -1,11 +1,11 @@
-# PROJECT NAME
+# Crypto Converter
 
-#### EPICODUS PRACTICE: Sample one-sentence description
+#### EPICODUS PRACTICE: Week 6 Lesson 25 | Martian Weather, Bike Index, API of Choice (Two Day Project)
 ---
 #### By
 * _**Ella Tanttu**_
-* _**Name 2**_
-* _**Name 3**_
+* _**Karen Axon**_
+* _**Morgan Waites**_
 
 ## Technologies Used
 
@@ -41,22 +41,14 @@ No known issues
 
 ## License
 
-_MIT Copyright (c) 2021 Ella Tanttu_
+_MIT Copyright (c) 2021 Ella Tanttu, Morgan Waites, Karen Axon_
 _https://opensource.org/licenses/MIT_
 
 ## Contact Information
 
 _Ella Tanttu ellajtanttu@gmail.com_
+_Morgan Waites morgan.waites@gmail.com_
+_Karen Axon kaxonwa@gmail.com_
 
 ---
 
-
-# Whiteboarding
-
-## Prompt
-> Block quote paragraph setter
-
-## Analysis & Brainstorm
-
-## Pseudocode
-      Test must be tabbed in three times to show up as code block:

@@ -17,7 +17,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new Dotenv(),
     new HtmlWebpackPlugin({
-      title: 'Project Name',
+      title: 'crypto-convert',
       template: './src/index.html',
       inject: 'body'
     })
